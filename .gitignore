@@ -1,32 +1,24 @@
-# Prerequisites
-*.d
+# Ignore Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
 
-# Compiled Object files
-*.slo
-*.lo
+
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore logs
+*.log
+
+
+# Ignore temporary or backup files
+*~
+*.bak
+*.tmp
+
+# Ignore compiled C/C++ files
+*.out
 *.o
 *.obj
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
