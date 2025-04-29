@@ -51,10 +51,9 @@ Recommended focusing on models with high accident counts but low fatality rates,
 # Dashboard Creation (Tableau)
 After cleaning the data, it was saved as cleaned_aviation_data.csv.
 The file was imported into Tableau.
-A dashboard was created to:
-Allow stakeholders to interactively explore accident counts by make and model.
-Visualize injury severity breakdowns.
-Examine accident trends over time.
+A dashboard was created to allow stakeholders to interactively explore accident counts by make and model,Visualize injury severity breakdowns and Examine accident trends over time.
+You can view the interactive dashboard here:  
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/Aircraftaccidentanalysis_17459037525170/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # How to Run This Project
 ## 1. Python Analysis
